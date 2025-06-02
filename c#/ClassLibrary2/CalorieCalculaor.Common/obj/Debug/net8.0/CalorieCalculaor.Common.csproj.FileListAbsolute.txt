@@ -1,0 +1,11 @@
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\ClassLibrary2\CalorieCalculaor.Common\bin\Debug\net8.0\CalorieCalculaor.Common.deps.json
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\ClassLibrary2\CalorieCalculaor.Common\bin\Debug\net8.0\CalorieCalculaor.Common.dll
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\ClassLibrary2\CalorieCalculaor.Common\bin\Debug\net8.0\CalorieCalculaor.Common.pdb
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\ClassLibrary2\CalorieCalculaor.Common\obj\Debug\net8.0\CalorieCalculaor.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\ClassLibrary2\CalorieCalculaor.Common\obj\Debug\net8.0\CalorieCalculaor.Common.AssemblyInfoInputs.cache
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\ClassLibrary2\CalorieCalculaor.Common\obj\Debug\net8.0\CalorieCalculaor.Common.AssemblyInfo.cs
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\ClassLibrary2\CalorieCalculaor.Common\obj\Debug\net8.0\CalorieCalculaor.Common.csproj.CoreCompileInputs.cache
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\ClassLibrary2\CalorieCalculaor.Common\obj\Debug\net8.0\CalorieCalculaor.Common.dll
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\ClassLibrary2\CalorieCalculaor.Common\obj\Debug\net8.0\refint\CalorieCalculaor.Common.dll
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\ClassLibrary2\CalorieCalculaor.Common\obj\Debug\net8.0\CalorieCalculaor.Common.pdb
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\ClassLibrary2\CalorieCalculaor.Common\obj\Debug\net8.0\ref\CalorieCalculaor.Common.dll

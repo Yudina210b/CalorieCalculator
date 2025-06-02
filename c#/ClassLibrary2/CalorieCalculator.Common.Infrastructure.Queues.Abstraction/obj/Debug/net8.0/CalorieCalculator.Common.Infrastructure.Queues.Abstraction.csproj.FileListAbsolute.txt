@@ -1,0 +1,11 @@
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\ClassLibrary2\CalorieCalculator.Common.Infrastructure.Queues.Abstraction\bin\Debug\net8.0\CalorieCalculator.Common.Infrastructure.Queues.Abstraction.deps.json
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\ClassLibrary2\CalorieCalculator.Common.Infrastructure.Queues.Abstraction\bin\Debug\net8.0\CalorieCalculator.Common.Infrastructure.Queues.Abstraction.dll
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\ClassLibrary2\CalorieCalculator.Common.Infrastructure.Queues.Abstraction\bin\Debug\net8.0\CalorieCalculator.Common.Infrastructure.Queues.Abstraction.pdb
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\ClassLibrary2\CalorieCalculator.Common.Infrastructure.Queues.Abstraction\obj\Debug\net8.0\CalorieCalculator.Common.Infrastructure.Queues.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\ClassLibrary2\CalorieCalculator.Common.Infrastructure.Queues.Abstraction\obj\Debug\net8.0\CalorieCalculator.Common.Infrastructure.Queues.Abstraction.AssemblyInfoInputs.cache
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\ClassLibrary2\CalorieCalculator.Common.Infrastructure.Queues.Abstraction\obj\Debug\net8.0\CalorieCalculator.Common.Infrastructure.Queues.Abstraction.AssemblyInfo.cs
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\ClassLibrary2\CalorieCalculator.Common.Infrastructure.Queues.Abstraction\obj\Debug\net8.0\CalorieCalculator.Common.Infrastructure.Queues.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\ClassLibrary2\CalorieCalculator.Common.Infrastructure.Queues.Abstraction\obj\Debug\net8.0\CalorieCalculator.Common.Infrastructure.Queues.Abstraction.dll
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\ClassLibrary2\CalorieCalculator.Common.Infrastructure.Queues.Abstraction\obj\Debug\net8.0\refint\CalorieCalculator.Common.Infrastructure.Queues.Abstraction.dll
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\ClassLibrary2\CalorieCalculator.Common.Infrastructure.Queues.Abstraction\obj\Debug\net8.0\CalorieCalculator.Common.Infrastructure.Queues.Abstraction.pdb
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\ClassLibrary2\CalorieCalculator.Common.Infrastructure.Queues.Abstraction\obj\Debug\net8.0\ref\CalorieCalculator.Common.Infrastructure.Queues.Abstraction.dll

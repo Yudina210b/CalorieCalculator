@@ -1,0 +1,4 @@
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\ClassLibrary2\obj\Debug\net8.0\ClassLibrary2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\ClassLibrary2\obj\Debug\net8.0\ClassLibrary2.AssemblyInfoInputs.cache
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\ClassLibrary2\obj\Debug\net8.0\ClassLibrary2.AssemblyInfo.cs
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\ClassLibrary2\obj\Debug\net8.0\ClassLibrary2.csproj.CoreCompileInputs.cache

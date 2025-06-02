@@ -1,0 +1,17 @@
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\CalorieCalculator.Domain\bin\Debug\net8.0\CalorieCalculator.Domain.deps.json
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\CalorieCalculator.Domain\bin\Debug\net8.0\CalorieCalculator.Domain.dll
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\CalorieCalculator.Domain\bin\Debug\net8.0\CalorieCalculator.Domain.pdb
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\CalorieCalculator.Domain\bin\Debug\net8.0\CalorieCalculaor.Common.dll
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\CalorieCalculator.Domain\bin\Debug\net8.0\CalorieCalculator.Domain.ValueObjects.dll
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\CalorieCalculator.Domain\bin\Debug\net8.0\CalorieCalculator.Domain.ValueObjects.pdb
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\CalorieCalculator.Domain\bin\Debug\net8.0\CalorieCalculaor.Common.pdb
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\CalorieCalculator.Domain\obj\Debug\net8.0\CalorieCalculator.Domain.csproj.AssemblyReference.cache
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\CalorieCalculator.Domain\obj\Debug\net8.0\CalorieCalculator.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\CalorieCalculator.Domain\obj\Debug\net8.0\CalorieCalculator.Domain.AssemblyInfoInputs.cache
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\CalorieCalculator.Domain\obj\Debug\net8.0\CalorieCalculator.Domain.AssemblyInfo.cs
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\CalorieCalculator.Domain\obj\Debug\net8.0\CalorieCalculator.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\CalorieCalculator.Domain\obj\Debug\net8.0\CalorieC.CB3C1337.Up2Date
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\CalorieCalculator.Domain\obj\Debug\net8.0\CalorieCalculator.Domain.dll
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\CalorieCalculator.Domain\obj\Debug\net8.0\refint\CalorieCalculator.Domain.dll
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\CalorieCalculator.Domain\obj\Debug\net8.0\CalorieCalculator.Domain.pdb
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\CalorieCalculator.Domain\obj\Debug\net8.0\ref\CalorieCalculator.Domain.dll

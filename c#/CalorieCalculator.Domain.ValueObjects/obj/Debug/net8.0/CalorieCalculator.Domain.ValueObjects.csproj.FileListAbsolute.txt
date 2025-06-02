@@ -1,0 +1,11 @@
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\CalorieCalculator.Domain.ValueObjects\bin\Debug\net8.0\CalorieCalculator.Domain.ValueObjects.deps.json
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\CalorieCalculator.Domain.ValueObjects\bin\Debug\net8.0\CalorieCalculator.Domain.ValueObjects.dll
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\CalorieCalculator.Domain.ValueObjects\bin\Debug\net8.0\CalorieCalculator.Domain.ValueObjects.pdb
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\CalorieCalculator.Domain.ValueObjects\obj\Debug\net8.0\CalorieCalculator.Domain.ValueObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\CalorieCalculator.Domain.ValueObjects\obj\Debug\net8.0\CalorieCalculator.Domain.ValueObjects.AssemblyInfoInputs.cache
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\CalorieCalculator.Domain.ValueObjects\obj\Debug\net8.0\CalorieCalculator.Domain.ValueObjects.AssemblyInfo.cs
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\CalorieCalculator.Domain.ValueObjects\obj\Debug\net8.0\CalorieCalculator.Domain.ValueObjects.csproj.CoreCompileInputs.cache
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\CalorieCalculator.Domain.ValueObjects\obj\Debug\net8.0\CalorieCalculator.Domain.ValueObjects.dll
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\CalorieCalculator.Domain.ValueObjects\obj\Debug\net8.0\refint\CalorieCalculator.Domain.ValueObjects.dll
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\CalorieCalculator.Domain.ValueObjects\obj\Debug\net8.0\CalorieCalculator.Domain.ValueObjects.pdb
+C:\Users\ksen'\Desktop\Учеба\Курсач С#\c#\c#\CalorieCalculator.Domain.ValueObjects\obj\Debug\net8.0\ref\CalorieCalculator.Domain.ValueObjects.dll

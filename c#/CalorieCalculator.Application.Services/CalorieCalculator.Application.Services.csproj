@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+    <PackageReference Include="MassTransit" Version="8.4.1" />
+    <PackageReference Include="Otus.QueueDto" Version="1.0.5.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CalorieCalculator.Application.Models\CalorieCalculator.Application.Models.csproj" />
+    <ProjectReference Include="..\CalorieCalculator.Domain\CalorieCalculator.Domain.csproj" />
+    <ProjectReference Include="..\CalorieCalculator.Repositories.Abstractions\CalorieCalculator.Repositories.Abstractions.csproj" />
+    <ProjectReference Include="..\ClassLibrary2\CalorieCalculaor.Common\CalorieCalculaor.Common.csproj" />
+    <ProjectReference Include="..\ClassLibrary2\CalorieCalculator.Common.Infrastructure.Queues.Abstraction\CalorieCalculator.Common.Infrastructure.Queues.Abstraction.csproj" />
+  </ItemGroup>
+
+</Project>

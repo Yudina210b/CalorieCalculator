@@ -1,0 +1,101 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36127.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{6E8B4197-EC7A-4DD4-844B-00B1757C2C70}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{720307CE-CBB8-46CA-87A1-369FF9FA790F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{10842629-30A9-4E1A-ABFC-139754FF0F30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalorieCalculator.Domain", "..\CalorieCalculator.Domain\CalorieCalculator.Domain.csproj", "{89E9E9B6-6B77-4083-9CAA-46ACDEEFDFD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalorieCalculator.Domain.ValueObjects", "..\CalorieCalculator.Domain.ValueObjects\CalorieCalculator.Domain.ValueObjects.csproj", "{60618E61-4547-48FE-AECE-8E815BD74D67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalorieCalculator.Repositories.Abstractions", "..\CalorieCalculator.Repositories.Abstractions\CalorieCalculator.Repositories.Abstractions.csproj", "{C9945F4D-DF64-449F-8BC4-757AE237035C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalorieCalculator.Domain.Services", "..\CalorieCalculator.Domain.Services\CalorieCalculator.Domain.Services.csproj", "{4645637E-EDDB-444A-AF6B-068492158AA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalorieCalculator.Application.Models", "..\CalorieCalculator.Application.Models\CalorieCalculator.Application.Models.csproj", "{9A4DC0BD-A128-4C6F-929A-E418CD6AF03A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalorieCalculator.Application.Services", "..\CalorieCalculator.Application.Services\CalorieCalculator.Application.Services.csproj", "{6D989A85-C102-44B3-823A-EB3385238A2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalorieCalculaor.Common", "CalorieCalculaor.Common\CalorieCalculaor.Common.csproj", "{05B7914A-B17F-4E93-905B-36FF121649AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalorieCalculator.Common.Infrastructure.Queues.Abstraction", "CalorieCalculator.Common.Infrastructure.Queues.Abstraction\CalorieCalculator.Common.Infrastructure.Queues.Abstraction.csproj", "{B1208827-FC4E-48A9-B3A0-CA9E5EE11129}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{E4899A1C-BAC6-43C3-B085-9FC25034643E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalorieCalculator.Infrastructure.EntityFramework", "CalorieCalculator.Infrastructure.EntityFramework\CalorieCalculator.Infrastructure.EntityFramework.csproj", "{64CDFA8E-0C45-4F94-ACEA-48516E0B7826}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalorieCalculator.WebHost", "CalorieCalculator.WebHost\CalorieCalculator.WebHost.csproj", "{9DAB0BE5-3122-4160-A642-FDAA803E2D3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89E9E9B6-6B77-4083-9CAA-46ACDEEFDFD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89E9E9B6-6B77-4083-9CAA-46ACDEEFDFD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89E9E9B6-6B77-4083-9CAA-46ACDEEFDFD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89E9E9B6-6B77-4083-9CAA-46ACDEEFDFD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60618E61-4547-48FE-AECE-8E815BD74D67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60618E61-4547-48FE-AECE-8E815BD74D67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60618E61-4547-48FE-AECE-8E815BD74D67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60618E61-4547-48FE-AECE-8E815BD74D67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9945F4D-DF64-449F-8BC4-757AE237035C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9945F4D-DF64-449F-8BC4-757AE237035C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9945F4D-DF64-449F-8BC4-757AE237035C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9945F4D-DF64-449F-8BC4-757AE237035C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4645637E-EDDB-444A-AF6B-068492158AA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4645637E-EDDB-444A-AF6B-068492158AA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4645637E-EDDB-444A-AF6B-068492158AA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4645637E-EDDB-444A-AF6B-068492158AA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A4DC0BD-A128-4C6F-929A-E418CD6AF03A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A4DC0BD-A128-4C6F-929A-E418CD6AF03A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A4DC0BD-A128-4C6F-929A-E418CD6AF03A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A4DC0BD-A128-4C6F-929A-E418CD6AF03A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D989A85-C102-44B3-823A-EB3385238A2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D989A85-C102-44B3-823A-EB3385238A2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D989A85-C102-44B3-823A-EB3385238A2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D989A85-C102-44B3-823A-EB3385238A2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05B7914A-B17F-4E93-905B-36FF121649AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05B7914A-B17F-4E93-905B-36FF121649AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05B7914A-B17F-4E93-905B-36FF121649AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05B7914A-B17F-4E93-905B-36FF121649AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1208827-FC4E-48A9-B3A0-CA9E5EE11129}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1208827-FC4E-48A9-B3A0-CA9E5EE11129}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1208827-FC4E-48A9-B3A0-CA9E5EE11129}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1208827-FC4E-48A9-B3A0-CA9E5EE11129}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64CDFA8E-0C45-4F94-ACEA-48516E0B7826}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64CDFA8E-0C45-4F94-ACEA-48516E0B7826}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64CDFA8E-0C45-4F94-ACEA-48516E0B7826}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64CDFA8E-0C45-4F94-ACEA-48516E0B7826}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DAB0BE5-3122-4160-A642-FDAA803E2D3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DAB0BE5-3122-4160-A642-FDAA803E2D3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DAB0BE5-3122-4160-A642-FDAA803E2D3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DAB0BE5-3122-4160-A642-FDAA803E2D3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{89E9E9B6-6B77-4083-9CAA-46ACDEEFDFD5} = {720307CE-CBB8-46CA-87A1-369FF9FA790F}
+		{60618E61-4547-48FE-AECE-8E815BD74D67} = {720307CE-CBB8-46CA-87A1-369FF9FA790F}
+		{C9945F4D-DF64-449F-8BC4-757AE237035C} = {720307CE-CBB8-46CA-87A1-369FF9FA790F}
+		{4645637E-EDDB-444A-AF6B-068492158AA9} = {720307CE-CBB8-46CA-87A1-369FF9FA790F}
+		{9A4DC0BD-A128-4C6F-929A-E418CD6AF03A} = {36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}
+		{6D989A85-C102-44B3-823A-EB3385238A2E} = {36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}
+		{05B7914A-B17F-4E93-905B-36FF121649AA} = {6E8B4197-EC7A-4DD4-844B-00B1757C2C70}
+		{B1208827-FC4E-48A9-B3A0-CA9E5EE11129} = {6E8B4197-EC7A-4DD4-844B-00B1757C2C70}
+		{64CDFA8E-0C45-4F94-ACEA-48516E0B7826} = {E4899A1C-BAC6-43C3-B085-9FC25034643E}
+		{9DAB0BE5-3122-4160-A642-FDAA803E2D3B} = {10842629-30A9-4E1A-ABFC-139754FF0F30}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {987C3984-1917-472C-9C83-C502EEF21194}
+	EndGlobalSection
+EndGlobal
